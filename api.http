@@ -1,0 +1,22 @@
+# Login Sebaki
+
+POST https://e2f15491868b.ngrok.io/api/login-sebaki
+Content-Type: application/json
+
+{
+    "username": "yerosehjhj",
+    "password": "password"
+}
+
+
+
+#Add Yesema
+
+
+
+POST https://e2f15491868b.ngrok.io/api/add-yesema
+Content-Type: application/json
+
+{
+
+}
